@@ -5,6 +5,7 @@ Hi, I'm V. Manoj 👋
 🚀 Area of Interest: Software Applications
 
 👨‍💻 About Me
+
 I am a B.Tech second-year student in the Computer Science and Data Science (CSDS) department at QIS College of Engineering and Technology. I am interested in developing software applications and learning technologies that help solve real-world problems.
 I enjoy participating in technical events, collaborating on projects, and improving my programming skills.
 
